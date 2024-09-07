@@ -1,0 +1,7 @@
+voltAlsaOutput: 'alsa_output.usb-Universal_Audio_Volt_276_23272039053695-00.analog-stereo'
+
+hass:
+  url: 'https://hass.example.com'
+  token: '.....'
+  speakersDeviceId: '.....'
+  speakersEntityId: 'switch.speakers'
